@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lisa Khokhlakova/h1>
+<h1 align="center">Hi 👋, I'm Lisa Khokhlakova</h1>
 <h3 align="center">A passionate backend developer from Saint Petersburg</h3>
 
 - 🔭 I’m currently working on **kotlin**
